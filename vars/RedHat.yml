@@ -1,2 +1,2 @@
 ---
-ntpd_daemon: ntpd
+ntp_daemon: ntpd
